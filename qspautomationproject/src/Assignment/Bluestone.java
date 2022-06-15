@@ -18,6 +18,7 @@ public class Bluestone {
 		driver.findElement(By.xpath("//span[@id='denyBtn']")).click();
 		Thread.sleep(10000);
 		driver.findElement(By.xpath("//div[@class='lc-o7mqve e16i86ec1']")).click();
+		//rohan
 
 	}
 
